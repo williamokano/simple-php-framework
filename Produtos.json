@@ -1,0 +1,134 @@
+{
+    "Produto": [
+        {
+            "ProdutoId": 377032,
+            "Nome": "Sony ILCE-3500J Alpha Preto, 20.1MP, Filma em Full HD 1080p, LCD de 7.5cm (3.0\") Widescreen",
+            "PrecoPor": 1984,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/408079_2706719_20140130173332.jpg",
+            "Estoque": {
+                "Disponivel": 72169
+            }
+        },
+        {
+            "ProdutoId": 377090,
+            "Nome": "Relógio masculino Backer Rostock 3505229M",
+            "PrecoPor": 59.9,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/584692_3680129_20150302115631.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        },
+        {
+            "ProdutoId": 377033,
+            "Nome": "MORTAL KOMBAT X BR PS4 - WG0957AN",
+            "PrecoPor": 1683,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/593022_3681693_20150303175547.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        },
+        {
+            "ProdutoId": 377034,
+            "Nome": "MORTAL KOMBAT X BR XONE - WG0957AN",
+            "PrecoPor": 1891,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/593027_3681678_20150303175314.jpg",
+            "Estoque": {
+                "Disponivel": 20
+            }
+        },
+        {
+            "ProdutoId": 377035,
+            "Nome": "MORTAL KOMBAT X BR PS3 - WG0957BN",
+            "PrecoPor": 1357,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/593029_3681663_20150303175040.jpg",
+            "Estoque": {
+                "Disponivel": 3
+            }
+        },
+        {
+            "ProdutoId": 377036,
+            "Nome": "MORTAL KOMBAT X BR X360 - WG0957XN",
+            "PrecoPor": 1602,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/593032_3681648_20150303174822.jpg",
+            "Estoque": {
+                "Disponivel": 1
+            }
+        },
+        {
+            "ProdutoId": 377037,
+            "Nome": "MORTAL KOMBAT X BR PS4 KOL ED - WG0957AKE",
+            "PrecoPor": 1976,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/593022_3681693_20150303175547.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        },
+        {
+            "ProdutoId": 377038,
+            "Nome": "MORTAL KOMBAT X XONE KOL ED - WG0957OKE",
+            "PrecoPor": 1908,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/593027_3681678_20150303175314.jpg",
+            "Estoque": {
+                "Disponivel": 230
+            }
+        },
+        {
+            "ProdutoId": 377039,
+            "Nome": "LEGO NINJAGO: SHADOW OF RONIN BR 3DS - WGY5429EN",
+            "PrecoPor": 1961,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/542156_3350403_20141030140203.jpg",
+            "Estoque": {
+                "Disponivel": 0
+            }
+        },
+        {
+            "ProdutoId": 377040,
+            "Nome": "LEGO NINJAGO: SHADOW OF RONIN BR PSVITA - WGY5429VN",
+            "PrecoPor": 1572,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/542161_3350434_20141030141422.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        },
+        {
+            "ProdutoId": 377050,
+            "Nome": "DREAMTONE SERUM 02 7ML AMO",
+            "PrecoPor": 1397,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/336307_2003256_20130415114359.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        },
+        {
+            "ProdutoId": 377091,
+            "Nome": "Lavadora 10 Kg  Semi-Auto LA551 BR 110V - Latina",
+            "PrecoPor": 1830,
+            "Status": 1,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/584692_3680129_20150302115631.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        },
+        {
+            "ProdutoId": 376770,
+            "Nome": "Celular Desbloqueado Moto X Branco com Bambu",
+            "PrecoPor": 1945,
+            "Status": 0,
+            "Foto": "http://images.maquinadevendas.com.br/140x140/produto/386337_3324489_20141021110459.jpg",
+            "Estoque": {
+                "Disponivel": 1000
+            }
+        }
+    ]
+}
