@@ -19,6 +19,7 @@ class IndexController extends Controller
         $produtosModel = new ProdutosRepository();
         $produtosAtivos = $produtosModel->getProdutosAtivo();
 
+        $this->view->set("paginacao", "");
         $this->view->set("produtos", $produtosAtivos);
         $this->view->set("produtosFeatured", array_slice($produtosAtivos, 6));
     }

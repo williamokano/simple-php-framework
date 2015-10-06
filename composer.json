@@ -1,0 +1,22 @@
+{
+    "name": "williamokano/teste",
+    "description": "Desafio desenvolvedores",
+    "require": {
+        "nesbot/carbon": "^1.20"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "William",
+            "email": "williamokano@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "autoload" : {
+        "classmap" : [
+            "app/lib",
+            "app/controllers",
+            "app/models"
+        ]
+    }
+}
